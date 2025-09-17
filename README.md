@@ -8,7 +8,7 @@ A modern Flask web application for financial intelligence powered by AI.
 - **Real-time Data**: Live market data and instant portfolio updates
 - **Risk Management**: Intelligent risk assessment tools
 - **Modern UI/UX**: Clean, responsive design with dark theme
-- **Mobile Responsive**: Optimized for all device sizes
+- **Mobile Responsive**: Optimized for all device sizes.
 
 ## Design
 
